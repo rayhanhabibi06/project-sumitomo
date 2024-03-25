@@ -1,3 +1,4 @@
+<!-- component -->
 <!doctype html>
 <html>
 
@@ -37,10 +38,10 @@
 
             </div>
             <button class="bg-[#7488C5] font-medium p-2 md:p-4 text-white uppercase w-full rounded-xl">Login</button>
-        </div>
+        </div-->
 
 
-    </form>
+    </form->
 
     <!-- component -->
     <!-- <div class="bg-white-400 h-screen overflow-hidden flex items-center justify-center">
@@ -63,10 +64,10 @@
       <button class="bg-[#7488C5] font-medium p-2 md:p-4 text-white uppercase w-full">Login</button>
     </form>
   </div>
- </div-->
+ </div>
     <script>
         document.querySelector('#person').appendChild(person)
     </script>
 </body>
 
-</html>
+</html-->
